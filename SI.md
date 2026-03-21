@@ -12,7 +12,13 @@
 - Plannning du travail 
     - Duree de construction imposer par le client
 
-## Traitement de donnee :
-- Pour le budget total :
-    - Le client impose son dudget pour la construction de sa maison et nous on doit calculer les prix du brique et toutes les restes pour la construction
-    -  
+## Dispositif d'entree :
+- Formulaire web
+- Fichier (.pdf,.csv,.xlsx)
+
+
+## Traitement (Logique metier) :
+- Calcul budget de la construction :
+    - Le client impose son dudget pour la construction de sa maison et nous on doit calculer les prix du brique et toutes les restes pour la construction (par exemple : les prix du fer ,les ciments...)
+    - Il faut prendre en compte toutes les depenses
+    - 
