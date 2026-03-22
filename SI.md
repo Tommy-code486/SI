@@ -21,4 +21,14 @@
 - Calcul budget de la construction :
     - Le client impose son dudget pour la construction de sa maison et nous on doit calculer les prix du brique et toutes les restes pour la construction (par exemple : les prix du fer ,les ciments...)
     - Il faut prendre en compte toutes les depenses
-    - 
+- 
+
+
+## Sortie :
+- Une maison construit
+- Les depenses total pour la construction
+-  
+
+## Dispositif de sortie :
+- Une fichier (excel,pdf,docx)
+- Une page web
