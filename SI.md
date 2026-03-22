@@ -21,13 +21,16 @@
 - Calcul budget de la construction :
     - Le client impose son dudget pour la construction de sa maison et nous on doit calculer les prix du brique et toutes les restes pour la construction (par exemple : les prix du fer ,les ciments...)
     - Il faut prendre en compte toutes les depenses
-- 
-
+- Étude de faisabilité :
+    - Connaitre si le budget imposer par le logiciel depasse le budget du client
+    - Il faut aussi calculer les salaires des ouvrier
+- Gestion des risques : 
+    - Inclure des algorithmes pour anticiper les dérapages budgétaires, les retards de livraison de matériaux
 
 ## Sortie :
 - Une maison construit
 - Les depenses total pour la construction
--  
+-  Reporting et Tableaux de bord : Rapports sur l'avancement du chantier, comparaison entre budget prévu et dépenses réelles
 
 ## Dispositif de sortie :
 - Une fichier (excel,pdf,docx)
