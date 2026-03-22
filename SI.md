@@ -31,6 +31,8 @@
 - Une maison construit
 - Les depenses total pour la construction
 -  Reporting et Tableaux de bord : Rapports sur l'avancement du chantier, comparaison entre budget prévu et dépenses réelles
+- Reporting et Tableaux de bord : 
+    - Rapports sur l'avancement du chantier, comparaison entre budget prévu et dépenses réelles
 
 ## Dispositif de sortie :
 - Une fichier (excel,pdf,docx)
