@@ -1,7 +1,7 @@
 # Secteur de la construction - *Gestion de construction d'une maison* 
 
 ## Donnee d'entree :
-- Le budget total du client
+- Le budget total du client incluant une somme d'argent en plus pour les imprévus.
 - Donnee geometrique :
     - Les mesures recommander du client (par exemple : Le client veut construire une maison sur une terrain de 30 m²)
     - Ou se situe la maison
@@ -31,6 +31,7 @@
     - Inclure des algorithmes pour anticiper les dérapages budgétaires, les retards de livraison de matériaux
 
 ## Sortie :
+- Un document qui prouve que la maison a été construite exactement selon les plans et les normes de sécurité
 - Les depenses total pour la construction
 - Reporting et Tableaux de bord : 
     - Rapports sur l'avancement du chantier, comparaison entre budget prévu et dépenses réelles
